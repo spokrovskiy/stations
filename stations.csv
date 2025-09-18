@@ -1,5 +1,3 @@
-CSV for PapaRadio
-# ----- Pop/Dance -----
 Pop/Dance|181fm|http://listen.181fm.com:8128|#
 Pop/Dance|MyHits|https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.mp3|#
 Pop/Dance|SynthPop|http://abm22.com.au:8000/CONTAINER17|#
@@ -20,8 +18,6 @@ Pop/Dance|Dance|http://night.wakkeren.nl:8000/|#
 Pop/Dance|RadioParadise|http://stream.radioparadise.com/|#
 Pop/Dance|GAYFM|https://streaming.silvacast.com/GAYFM.mp3|#
 Pop/Dance|(R&B)|https://listen.181fm.com/181-beat_128k.mp3|#
-
-# ----- Chill -----
 Chill|Chill|http://stream.truehouse.net:8000/chill|#
 Chill|Soft&easy|http://185.33.21.112:80/chilloutlounge_128|#
 Chill|SpaceStation|http://69.30.218.190:29662/;|#
@@ -30,14 +26,10 @@ Chill|ChilledOut|https://listen.181fm.com/181-chilled_128k.mp3|#
 Chill|ABC Lounge|http://listen.radionomy.com/ABC-Lounge|#
 Chill|Lounge Radio|http://stream.loungemusic.ru:8000/lounge128|#
 Chill|DubTerrain.net|http://ic2255.c471.fast-serv.com:80/listen_lo|#
-
-# ----- Electronic -----
 Electronic|truehouse|http://stream.truehouse.net:8000/house|#
 Electronic|ClubHouse|https://sh.onweb.gr/9104/stream|#
 Electronic|Groove|http://stream.truehouse.net:8000/groove|#
 Electronic|Industrial|http://192.111.140.6:9772/stream|#
-
-# ----- Jazz -----
 Jazz|Smooth Jazz|http://stream.srg-ssr.ch/m/rsj/mp3_128|#
 Jazz|Jazz24|https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1|#
 Jazz|SmoothJazz|http://listen.shoutcast.com/smoothjazzcd1019newyork|#
@@ -48,8 +40,6 @@ Jazz|BeBop Jazz|https://listen.181fm.com/181-bebop_128k.mp3|#
 Jazz|Fusion Jazz|https://listen.181fm.com/181-fusionjazz_128k.mp3|#
 Jazz|Trance Jazz|https://listen.181fm.com/181-trancejazz_128k.mp3|#
 Jazz|Acid Jazz|https://listen.181fm.com/181-acidjazz_128k.mp3|#
-
-# ----- Rock -----
 Rock|TheEagle|https://listen.181fm.com/181-eagle_128k.mp3|#
 Rock|The Rock!(HRock)|https://listen.181fm.com/181-hardrock_128k.mp3|#
 Rock|Rock 40(R&Roll)|https://listen.181fm.com/181-rock40_128k.mp3|#
@@ -60,11 +50,7 @@ Rock|Rockin 80's|http://206.217.213.236:8420|#
 Rock|Radio Caroline|http://sc6.radiocaroline.net:8040/mp3|#
 Rock|KEXP|https://kexp-mp3-128.streamguys1.com/kexp128.mp3|#
 Rock|Rock&Punk|http://149.56.155.73:8080|#
-
-# ----- HipHop -----
 HipHop|HipHop|http://whatradio.macchiatomedia.org:9119|#
-
-# ----- Unsorted -----
 Unsorted|STREAM|http://37.157.242.103:7517|#
 Unsorted|LoveSongs|http://go-stream.live:8899|#
 Unsorted|80's Lite RnB|https://listen.181fm.com/181-80sliternb_128k.mp|#
@@ -83,5 +69,4 @@ Unsorted|Folk|http://5.79.74.155:8000|#
 Unsorted|Oldies|http://5.63.151.52:7064/stream|#
 Unsorted|NewAge|http://s2.voscast.com:7932|#
 
-# (Optional duplicate category if you want it listed twice)
-HipHop|HipHop|http://whatradio.macchiatomedia.org:9119|#
+
