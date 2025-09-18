@@ -1,11 +1,87 @@
-# Test CSV for Radio
-Chill|ABC Lounge|http://listen.radionomy.com/ABC-Lounge|#
-Chill|Soft&Easy|http://185.33.21.112:80/chilloutlounge_128|#
-Chill|SpaceStation|http://69.30.218.190:29662|#
+CSV for PapaRadio
+# ----- Pop/Dance -----
+Pop/Dance|181fm|http://listen.181fm.com:8128|#
+Pop/Dance|MyHits|https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.mp3|#
+Pop/Dance|SynthPop|http://abm22.com.au:8000/CONTAINER17|#
+Pop/Dance|Siglo21FM|http://emisiones.com.uy:5105/siglo|#
+Pop/Dance|Studio 181|https://listen.181fm.com/181-ball_128k.mp3|#
+Pop/Dance|Energy93|https://listen.181fm.com/181-energy93_128k.mp3|#
+Pop/Dance|ClassicEnergy|https://listen.181fm.com/181-classicenergy_128k.mp3|#
+Pop/Dance|Energy98|https://listen.181fm.com/181-energy98_128k.mp3|#
+Pop/Dance|TheVibeOfVegas|https://listen.181fm.com/181-vibe_128k.mp3|#
+Pop/Dance|INTENSE 90`s|http://stream.intenseradio.net:8000/high|#
+Pop/Dance|KUTX FM|https://streams.kut.org/4428_192.mp3?aw_0_1st.playerid=kutx-free|#
+Pop/Dance|DNB FM|http://go.dnbfm.ru:8000/play|#
+Pop/Dance|UturnRadio|http://play.uturnradio.com:80/dubstep|#
+Pop/Dance|The Mix|https://listen.181fm.com/181-themix_128k.mp3|#
+Pop/Dance|UK top 40|https://listen.181fm.com/181-uktop40_128k.mp3|#
+Pop/Dance|PopHits|http://185.33.21.112:80/top40_32a|#
+Pop/Dance|Dance|http://night.wakkeren.nl:8000/|#
+Pop/Dance|RadioParadise|http://stream.radioparadise.com/|#
+Pop/Dance|GAYFM|https://streaming.silvacast.com/GAYFM.mp3|#
+Pop/Dance|(R&B)|https://listen.181fm.com/181-beat_128k.mp3|#
+
+# ----- Chill -----
+Chill|Chill|http://stream.truehouse.net:8000/chill|#
+Chill|Soft&easy|http://185.33.21.112:80/chilloutlounge_128|#
+Chill|SpaceStation|http://69.30.218.190:29662/;|#
 Chill|Ambient|http://163.172.169.217:80/asp-h|#
 Chill|ChilledOut|https://listen.181fm.com/181-chilled_128k.mp3|#
-Chill|LoungeRadio|http://stream.loungemusic.ru:8000/lounge128|#
-Chill|Chill|http://stream.truehouse.net:8000/chill|#
-Chill|DubTerrain|http://ic2255.c471.fast-serv.com:80/listen_lo|#
-Rock|Rock FM|http://rockfm98.ru:8000/rock128|#
-Rock|Hard Rock|http://stream.laut.fm/hardrock|#
+Chill|ABC Lounge|http://listen.radionomy.com/ABC-Lounge|#
+Chill|Lounge Radio|http://stream.loungemusic.ru:8000/lounge128|#
+Chill|DubTerrain.net|http://ic2255.c471.fast-serv.com:80/listen_lo|#
+
+# ----- Electronic -----
+Electronic|truehouse|http://stream.truehouse.net:8000/house|#
+Electronic|ClubHouse|https://sh.onweb.gr/9104/stream|#
+Electronic|Groove|http://stream.truehouse.net:8000/groove|#
+Electronic|Industrial|http://192.111.140.6:9772/stream|#
+
+# ----- Jazz -----
+Jazz|Smooth Jazz|http://stream.srg-ssr.ch/m/rsj/mp3_128|#
+Jazz|Jazz24|https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1|#
+Jazz|SmoothJazz|http://listen.shoutcast.com/smoothjazzcd1019newyork|#
+Jazz|101 SmoothJazz|http://jking.cdnstream1.com/b22139_128mp3|#
+Jazz|Jazz Mix|https://listen.181fm.com/181-jazzmix_128k.mp|#
+Jazz|Vocal Jazz|https://listen.181fm.com/181-vocals_128k.mp3|#
+Jazz|BeBop Jazz|https://listen.181fm.com/181-bebop_128k.mp3|#
+Jazz|Fusion Jazz|https://listen.181fm.com/181-fusionjazz_128k.mp3|#
+Jazz|Trance Jazz|https://listen.181fm.com/181-trancejazz_128k.mp3|#
+Jazz|Acid Jazz|https://listen.181fm.com/181-acidjazz_128k.mp3|#
+
+# ----- Rock -----
+Rock|TheEagle|https://listen.181fm.com/181-eagle_128k.mp3|#
+Rock|The Rock!(HRock)|https://listen.181fm.com/181-hardrock_128k.mp3|#
+Rock|Rock 40(R&Roll)|https://listen.181fm.com/181-rock40_128k.mp3|#
+Rock|The Buzz(Alt. Rock)|https://listen.181fm.com/181-buzz_128k.mp3|#
+Rock|Classic Buzz(Alt)|https://listen.181fm.com/181-classicbuzz_128k.mp3|#
+Rock|Radio Paradise|http://stream.radioparadise.com/mp3-192|#
+Rock|Rockin 80's|http://206.217.213.236:8420|#
+Rock|Radio Caroline|http://sc6.radiocaroline.net:8040/mp3|#
+Rock|KEXP|https://kexp-mp3-128.streamguys1.com/kexp128.mp3|#
+Rock|Rock&Punk|http://149.56.155.73:8080|#
+
+# ----- HipHop -----
+HipHop|HipHop|http://whatradio.macchiatomedia.org:9119|#
+
+# ----- Unsorted -----
+Unsorted|STREAM|http://37.157.242.103:7517|#
+Unsorted|LoveSongs|http://go-stream.live:8899|#
+Unsorted|80's Lite RnB|https://listen.181fm.com/181-80sliternb_128k.mp|#
+Unsorted|80's Country|https://listen.181fm.com/181-80scountry_128k.mp3|#
+Unsorted|ClassicalMusic|https://listen.181fm.com/181-classical_128k.mp|#
+Unsorted|Classical|https://az1.mediacp.eu:8030/radio.mp3|#
+Unsorted|Imoogi|http://streaming.live365.com/a88809|#
+Unsorted|NPR News|https://npr-ice.streamguys1.com/live.mp3|#
+Unsorted|TheGlobalVoice|http://theglobalvoice.info:8000/backup|#
+Unsorted|MarkMarvel|http://theglobalvoice.info:8000/broadband|#
+Unsorted|True Blues|https://listen.181fm.com/181-blues_128k.mp3|#
+Unsorted|70s,80s,90s|http://mp3uplink.duplexfx.com:8006|#
+Unsorted|Blues|http://185.33.21.112:80/blues_64|#
+Unsorted|SoulBlues|http://199.180.75.2:9409/stream|#
+Unsorted|Folk|http://5.79.74.155:8000|#
+Unsorted|Oldies|http://5.63.151.52:7064/stream|#
+Unsorted|NewAge|http://s2.voscast.com:7932|#
+
+# (Optional duplicate category if you want it listed twice)
+HipHop|HipHop|http://whatradio.macchiatomedia.org:9119|#
