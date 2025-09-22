@@ -44,7 +44,7 @@ Rock|TheEagle|https://listen.181fm.com/181-eagle_128k.mp3|#
 Rock|The Rock!(HRock)|https://listen.181fm.com/181-hardrock_128k.mp3|#
 Rock|Rock 40(R&Roll)|https://listen.181fm.com/181-rock40_128k.mp3|#
 Rock|The Buzz(Alt. Rock)|https://listen.181fm.com/181-buzz_128k.mp3|#
-Rock|Classic Buzz(Alt)|https://listen.181fm.com/181-classicbuzz_128k.mp3|#
+Rock|ClassicBuzz|https://listen.181fm.com/181-classicbuzz_128k.mp3|#
 Rock|Radio Paradise|http://stream.radioparadise.com/mp3-192|#
 Rock|Rockin 80's|http://206.217.213.236:8420|#
 Rock|Radio Caroline|http://sc6.radiocaroline.net:8040/mp3|#
@@ -68,5 +68,6 @@ Unsorted|SoulBlues|http://199.180.75.2:9409/stream|#
 Unsorted|Folk|http://5.79.74.155:8000|#
 Unsorted|Oldies|http://5.63.151.52:7064/stream|#
 Unsorted|NewAge|http://s2.voscast.com:7932|#
+
 
 
